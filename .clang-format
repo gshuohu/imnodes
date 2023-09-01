@@ -1,5 +1,5 @@
 ---
-AccessModifierOffset: -3
+AccessModifierOffset: -2
 AlignAfterOpenBracket: 'AlwaysBreak'
 AlignConsecutiveDeclarations: 'true'
 AllowAllParametersOfDeclarationOnNextLine: 'false'
